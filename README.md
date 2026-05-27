@@ -24,8 +24,8 @@ How to use
 
 Insert the following into cell 1 to confirm which version you are running:
 
-  import sys
-  print(sys.version)
+    import sys
+    print(sys.version)
 
 The number before the first space is your Python version. If it differs from the version in the video, that often explains the mismatch. 
 
